@@ -11,7 +11,7 @@ public class PrimeOrNot {
 		n = sc.nextInt();
 		boolean isPrime = true;
 		int div = 2;
-		while (div <= n / 2) {
+		while (div <= n/2) {
 			if (n % div == 0) {
 				isPrime = false;
 			}
