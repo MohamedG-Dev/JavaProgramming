@@ -23,6 +23,7 @@
         20. DecimalToBinary.java
         21. SquareRootIntegral.java
         22. CheckNumberSequence.java
+        23. NcR.java
         
     B. Pattern Programs
         Package name: patterns.programs
@@ -59,4 +60,34 @@
         1. NumberStarPattern.java
         2. ZerosAndStarsPattern.java
         3. ArmstrongNumber.java
+
+    D. Basic Programs - Part2
+        Package name: basic.programs.part2
+        1. NcRUsingFunctions.java
+        2. SumProgram.java
+        3. FibonacciNumberCheck.java
+        4. MethodCallingExample.java
+        5. DivideNumbers.java
+        6. FunctionOutputQuestion.java
+        7. PrintFahrenheitTable.java
+        8. PrimeCheck.java
+
+    E. Array Programs Part - 1
+        Package name: arrays.programs
+        1. BasicsOfArray.java
+        2. ReturnSumOfArrays.java
+        3. FindingLargestElement.java
+        4. LinearSearch.java
+        5. PrintAllPairs.java
+        6. ArrangeArrayElements.java
+        7. SwapAlternate.java
+        8. PrintUniqueElement.java
+        9. ReturnDuplicate.java
+        10. IntersectionOfTwoArrays.java
+        11. PairSum.java
+        12. TripletSum.java
+        13. Sort0And1s.java
+    
+    F. Searching and Sorting
+        Package name: 
        
