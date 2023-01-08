@@ -89,5 +89,17 @@
         13. Sort0And1s.java
     
     F. Searching and Sorting
-        Package name: 
+        Package name: arrays.searchingandsorting.programs
+        1. BinarySearch
+        2. SelectionSort.java
+        3. BubbleSort.java
+        4. InsertionSort.java
+        5. MergeTwoSortedArrays.java
+        6. AssignmentSort012.java
+        7. AssignmentCountSmall.java
+        8. AssignmentSmallestPair.java
+
+    G. Arrays - Part2
+        Package name: arrays.programs.part2;
+        
        
