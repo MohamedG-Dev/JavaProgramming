@@ -101,5 +101,15 @@
 
     G. Arrays - Part2
         Package name: arrays.programs.part2;
+        1. PushZerosToEnd.java
+        2. MoveAllNegativeNumbersToStart.java
+        3. RotateArray.java
+        4. RotateCheck.java
+        5. ReverseArrayBetween2Index.java
+        6. SumOfTwoArrays.java
+        7. SecondLargestInArray.java
+        8. AssignmentSecondLargestInArrayExample2.java
+        9. AssignmentRotateArray.java
+        10. AssignmentExtraCandies.java
         
        
