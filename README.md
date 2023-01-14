@@ -117,6 +117,18 @@
         1. PrintAllCharactersInAString.java
         2. CountWords.java
         3. ReverseAString.java
-        4. 
+        4. StringPalindrome.java
+        5. ReverseStringWordWise.java
+        6. ReverseEachWord.java
+        7. AllSubStringsApproach1.java
+        8. AllSubStringsApproach2.java
+        9. AssignmentCheckPermutation.java
+        10. AssignmentRemoveCharacter.java
+        11. AssignmentHighestOccuringCharacter.java
+        12. AssignmentRemoveConsecutiveDuplicates.java
+        13. AssignmentReverseEachWord.java
+        14. AssignmentCompressTheString.java
+
+    G. 2D - Arrays
         
        
