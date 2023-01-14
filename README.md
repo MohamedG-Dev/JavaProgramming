@@ -111,5 +111,12 @@
         8. AssignmentSecondLargestInArrayExample2.java
         9. AssignmentRotateArray.java
         10. AssignmentExtraCandies.java
+
+    F. Strings
+        Package name: strings.programs
+        1. PrintAllCharactersInAString.java
+        2. CountWords.java
+        3. ReverseAString.java
+        4. 
         
        
