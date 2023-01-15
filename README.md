@@ -112,7 +112,7 @@
         9. AssignmentRotateArray.java
         10. AssignmentExtraCandies.java
 
-    F. Strings
+    H. Strings
         Package name: strings.programs
         1. PrintAllCharactersInAString.java
         2. CountWords.java
@@ -129,7 +129,7 @@
         13. AssignmentReverseEachWord.java
         14. AssignmentCompressTheString.java
 
-    G. 2D - Arrays
+    I. 2D - Arrays
         Package Name: arrays.twodimensional.programs;
         1. TakeInputAndPrint2DArray.java
         2. RowWiseTraversal.java
@@ -143,7 +143,7 @@
         10. QueryAndMatrix.java
         11. AssingmentTotalSumOnBoundariesAndDiagonals.java
         12. AssignmentPrintLikeAWave.java
-    F. Test-2 - Problems
+    J. Test-2 - Problems
         Package Name:  test2.programs;
         1. Print2DArray.java
         2. MinimumLengthWord.java
