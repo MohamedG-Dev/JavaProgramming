@@ -130,5 +130,23 @@
         14. AssignmentCompressTheString.java
 
     G. 2D - Arrays
+        Package Name: arrays.twodimensional.programs;
+        1. TakeInputAndPrint2DArray.java
+        2. RowWiseTraversal.java
+        3. ColumnWiseTraversal.java
+        4. RowWiseSum.java
+        5. SquareMatrix.java
+        6. LargestColumnSum.java
+        7. LargestRowOrColumn.java
+        8. PrintMatrixInSpiral.java
+        9. AssignmentTransposeOfAMatrix.java
+        10. QueryAndMatrix.java
+        11. AssingmentTotalSumOnBoundariesAndDiagonals.java
+        12. AssignmentPrintLikeAWave.java
+    F. Test-2 - Problems
+        Package Name:  test2.programs;
+        1. Print2DArray.java
+        2. MinimumLengthWord.java
+        3. LeadersInArray.java
         
        
